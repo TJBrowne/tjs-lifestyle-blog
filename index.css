@@ -21,20 +21,24 @@ body {
     width: 25%;
     padding-left: 20px;
   }
+
   .myImage {
     width: 100%;
     height: 100%;
  }
- 
-  /* div .myImage {
-    display: block;
-    width: 100%;
- } */
-  
+
+ .imageOne img {
+   width: 150px;
+   height: 175px;
+}
+.aboutMe {
+    padding-top: 70px;
+}
+
   .fakeimg {
     background-color: #aaa;
     width: 40%;
-    padding: 20px;
+    padding: 10px;
   }
   
   .card {
